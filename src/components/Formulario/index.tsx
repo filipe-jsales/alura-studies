@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "../Button";
-import { Cronometro } from "../Cronometro";
+import Cronometro  from "../Cronometro";
 import style from './Formulario.module.scss';
 
 class Formulario extends React.Component {
